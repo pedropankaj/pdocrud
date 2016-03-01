@@ -14,8 +14,11 @@ PDO Connectionstring CRUD in PHP
 
 
 # CHANGE LOGS
-**01 March 2016 03:37**
+** 01 March 2016 03:37 **
 - all file are commit
+
+** 01 March 2016 15:20 **
+- modifying config.php and connection.php
 
 
 # CONTACT ME
